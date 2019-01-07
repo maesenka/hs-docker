@@ -1,0 +1,4 @@
+See : https://github.com/oracle/docker-images/tree/master/OracleDatabase/SingleInstance
+
+
+usage for version 12.2.0.1, standard edition: ./buildDockerImage.sh -v 12.2.0.1 -s
